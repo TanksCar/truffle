@@ -14,8 +14,9 @@ contract View is abstractContract {
   // function getArrayList()public view returns(uint []){
   //   return [1,2,3];
   // }
+  
   function a (uint c,uint b) public override pure returns(uint){
-    return c + b;
+    return c + b; 
   }
 }
 
