@@ -18,3 +18,4 @@ contract View is abstractContract {
     return c + b;
   }
 }
+
