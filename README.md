@@ -20,3 +20,8 @@ truffle compile
 truffle lint
 ```
 
+### Deploy to test network
+```
+truffle migrate --network networkName
+```
+

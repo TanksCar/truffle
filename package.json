@@ -1,0 +1,12 @@
+{
+  "name": "truffle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TanksCar/truffle.git",
+  "author": "TanksCar <2572813592@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0",
+    "@truffle/hdwallet-provider": "^2.0.0"
+  }
+}
