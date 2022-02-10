@@ -1,5 +1,5 @@
 let HDWalletProvider =require('@truffle/hdwallet-provider')
-let mnemonic = "Account private key";
+let mnemonic = "4349054ad0a292657a316300d5112b48f0633c2cb3d8ece672077aa852635890";
 /** 
  * Use this file to configure your truffle project. It's seeded with some
  * common settings for different networks and features like migrations,
